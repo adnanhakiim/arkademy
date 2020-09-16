@@ -1,2 +1,3 @@
 # arkademy
-Website CRUD
+Website CRUD sederhana dengan menggunakan mySQL dan PHP
+
